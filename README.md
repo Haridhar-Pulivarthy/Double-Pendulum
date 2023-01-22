@@ -17,14 +17,9 @@ There are three different modes:
      radians, creating a very aesthetically pleasing result.
      
 Dependencies:
-
-  a. Windows
-
-  b. Visual Studio 19 or above
-
-  c. SFML 2.1 or later (https://www.sfml-dev.org/download/sfml/2.5.1/)
-
-  d. Visual C++ 15
-  
+  1. Windows
+  2. Visual Studio 19 or above
+  3. SFML 2.1 or later (https://www.sfml-dev.org/download/sfml/2.5.1/)
+  4. Visual C++ 15
   
   Thanks for checking out my project!
