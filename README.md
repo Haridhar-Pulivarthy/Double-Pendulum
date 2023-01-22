@@ -19,8 +19,7 @@ There are three different modes:
 Dependencies:
   a. Windows
   b. Visual Studio 19 or above
-  c. SFML 2.1 or later
-    i. https://www.sfml-dev.org/download/sfml/2.5.1/
+  c. SFML 2.1 or later (https://www.sfml-dev.org/download/sfml/2.5.1/)
   d. Visual C++ 15
   
   Thanks for checking out my project!
